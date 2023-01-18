@@ -290,3 +290,6 @@ poetry.toml
 
 # idea
 .idea
+
+# vscode
+.vscode
